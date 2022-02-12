@@ -4,7 +4,7 @@
 #### Computer Science student at the University of British Columbia,
 
 
-Connect with me:
+<!-- Connect with me:
 gbhatia30 gbhatia30
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&count_private=true&theme=tokyonight)
 
@@ -12,7 +12,7 @@ gbhatia30 gbhatia30
 
 
 Connect with me:
-gbhatia30 gbhatia30
+gbhatia30 gbhatia30 -->
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)] -->
