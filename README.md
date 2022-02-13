@@ -10,7 +10,7 @@
 - ⚽️ Soccer and going for runs are my favourite activities. I've been playing professional soccer since I was 7.
 - ⚡ Fun fact: I like pizza.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
-- ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can
+- ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can.
 
 
 <!-- ### 🛠 Tech Stack:  -->
