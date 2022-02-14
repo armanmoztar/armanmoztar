@@ -13,13 +13,18 @@
 - ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can.
 
 
-<!-- ### 🛠 Tech Stack:  -->
-
+<!-- ### 🛠 Tech Stack:  
+- Python
+- Java
+- Javascript
+- R
+- 
+-->
 
 
 ### ⚙️ Github Analytics:
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=true&theme=react)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&layout=compact&theme=react)
-<!-- ![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&layout=compact&theme=react) -->
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)] -->
 <!-- (https://github.com/anuraghazra/github-readme-stats) --!>
