@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about data structures & algorithms.
 - 👯 I’m looking to collaborate on any open source projects.
 - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions.
-- 🎶 In my free time, I enjoy playing the piano and guitar. I also like making music on Ableton.
+- 🎶 In my free time, I enjoy playing the piano and guitar.
 - ⚽️ Soccer and going for runs are my favourite activities. I've been playing professional soccer since I was 7.
 - 🐈 Fun fact: I have a cat named Mylo 
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
