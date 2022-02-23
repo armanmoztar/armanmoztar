@@ -1,4 +1,4 @@
-<!-- ## Hi, I'm Arman 👋
+## Hi, I'm Arman 👋
 
 #### Computer Science student at the University of British Columbia
 
@@ -24,5 +24,5 @@
 - https://shields.io/.    
 - https://github.com/alexandresanlim/Badges4-README.md-Profile.     #FOR TECH STACK
 - https://github.com/rishavanand/github-profilinator.  # Profile generator
-- https://github.com/anuraghazra/github-readme-stats.   # TO CONTROL GITHUB STATS 
- -->
+- https://github.com/anuraghazra/github-readme-stats.   # TO CONTROL GITHUB STATS  -->
+
