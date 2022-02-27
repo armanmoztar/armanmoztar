@@ -16,6 +16,7 @@
 ### ⚙️ Github Analytics:
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
 
+![snake gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
