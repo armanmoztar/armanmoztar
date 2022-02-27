@@ -33,12 +33,10 @@
 ![Arduino-IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### ⚙️ Github Analytics:
-![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
+![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
 
-
-![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
 ![snake gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
+![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
 ![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
 <!-- RESOURCES/LINKS
