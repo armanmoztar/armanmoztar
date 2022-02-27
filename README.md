@@ -13,11 +13,12 @@
 - ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can.
 
 ### Technologies and Tools
-
+![image]({https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white})
 
 
 ### ⚙️ Github Analytics:
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
+
 
 
 <!-- RESOURCES/LINKS
