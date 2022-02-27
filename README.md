@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on any open source projects.
 - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions.
 - 🎶 In my free time, I enjoy playing the piano and guitar.
-- ⚽️ Soccer and going for runs are my favourite activities. I've been playing professional soccer since I was 7.
+- ⚽️ Outside, I like to go for runs and play soccer with friends.
 - 🐈 Fun fact: I have a cat named Mylo 
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
 - ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can.
@@ -35,7 +35,7 @@
 ### ⚙️ Github Analytics:
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
 
-![snake gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
+![snake-gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
 ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
 ![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 
