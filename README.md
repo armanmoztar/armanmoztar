@@ -1,6 +1,6 @@
 ## Hi, I'm Arman 👋
 
-#### Computer Science student at the University of British Columbia
+#### Software Developer and Student from Vancouver, Canada
 
 ### 👨🏻‍💻 About Me:
 - 🌱 I’m currently learning about data structures & algorithms.
@@ -21,9 +21,8 @@
 
 
 <!-- RESOURCES/LINKS
-
 - https://shields.io/.    
 - https://github.com/alexandresanlim/Badges4-README.md-Profile.     #Tech Stack
 - https://github.com/rishavanand/github-profilinator.  # Profile generator
-- https://github.com/anuraghazra/github-readme-stats.   # Github Stats  -->
-
+- https://github.com/anuraghazra/github-readme-stats.   # Github Stats  
+-->
