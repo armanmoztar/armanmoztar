@@ -1,4 +1,4 @@
-<!-- ## Hi, I'm Arman 👋
+ ## Hi, I'm Arman 👋
 
 #### Software Developer and Student from Vancouver, Canada
 
@@ -46,4 +46,4 @@
 - https://github.com/rishavanand/github-profilinator.  # Profile generator
 - https://github.com/anuraghazra/github-readme-stats.   # Github Stats  
 -->
- -->
+
