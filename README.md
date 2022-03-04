@@ -1,4 +1,4 @@
- ## Hi, I'm Arman 👋
+<!--  ## Hi, I'm Arman 👋
 
 #### Software Developer and Student from Vancouver, Canada
 
@@ -34,11 +34,12 @@
 
 ### ⚙️ Github Analytics:
 ![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
+ -->
+ 
+![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
+<!-- ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
+![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)  -->
 
-<!-- ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
-![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
-![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter) 
--->
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
@@ -46,4 +47,3 @@
 - https://github.com/rishavanand/github-profilinator.  # Profile generator
 - https://github.com/anuraghazra/github-readme-stats.   # Github Stats  
 -->
-
