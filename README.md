@@ -4,8 +4,8 @@
 
 ### 👨🏻‍💻 About Me:
 - 🌱 I’m currently learning about data structures & algorithms.
-- 👯 I’m looking to collaborate on any open source projects.
-- 🔭 I’m currently working on improving my technical skills in algorithms and programming questions.
+<!-- - 👯 I’m looking to collaborate on any open source projects. -->
+<!-- - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions. -->
 - 🎶 In my free time, I enjoy playing the piano and guitar.
 - ⚽️ Outside, I like to go for runs and play soccer with friends.
 - 🐈 Fun fact: I have a cat named Mylo 
