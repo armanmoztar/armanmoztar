@@ -1,4 +1,4 @@
- ## Hi, I'm Arman 👋
+<!--  ## Hi, I'm Arman 👋
 
  #### Software Developer and Student from Vancouver, Canada
 
@@ -12,10 +12,10 @@
 <!-- - 👯 I’m looking to collaborate on any open source projects. -->
 <!-- - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions. --> 
 
-### 🛠 Technologies and Tools:
+<!--### 🛠 Technologies and Tools: -->
 
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<!-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@
  
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
 <!-- ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal) -->
-![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter) -->
 
 
 <!-- RESOURCES/LINKS
