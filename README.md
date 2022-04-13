@@ -1,8 +1,8 @@
-<!--  ## Hi, I'm Arman 👋 -->
+ ## Hi, I'm Arman 👋
 
-<!-- #### Software Developer and Student from Vancouver, Canada -->
+ #### Software Developer and Student from Vancouver, Canada
 
-<!-- ### 👨🏻‍💻 About Me:
+ ### 👨🏻‍💻 About Me:
 - 🌱 I’m currently learning about data structures & algorithms.
 - 🎶 In my free time, I enjoy playing the piano and guitar.
 - ⚽️ Outside, I like to go for runs and play soccer.
@@ -12,7 +12,7 @@
 <!-- - 👯 I’m looking to collaborate on any open source projects. -->
 <!-- - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions. --> 
 
-<!-- ### 🛠 Technologies and Tools:
+### 🛠 Technologies and Tools:
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
