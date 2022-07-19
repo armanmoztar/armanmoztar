@@ -8,7 +8,7 @@
 - ⚽️ Outside, I like to go for runs and play soccer.
 - 🐈 I have a cat named Mylo 
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
-- ✉️ You can also shoot me an email at armanmoztar@outlook.com. I'll try to respond as soon as I can.
+- ✉️ You can also shoot me an email at armanmoztarzadeh@gmail.com. I'll try to respond as soon as I can.
 <!-- - 👯 I’m looking to collaborate on any open source projects. -->
 <!-- - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions. --> 
 
