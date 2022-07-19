@@ -1,4 +1,4 @@
- #### Software Developer and Student from Vancouver, Canada
+ # 👋 Hi, I'm Arman
 
  
 - 💻 I'm a third-year mathematics student at the University of British Columbia
