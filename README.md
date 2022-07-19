@@ -1,44 +1,54 @@
- ## Hi, I'm Arman 👋
-
  #### Software Developer and Student from Vancouver, Canada
 
- ### 👨🏻‍💻 About Me:
-- 🌱 I’m currently improving my web development skills
-- 🎶 In my free time, I enjoy playing the piano and guitar.
-- ⚽️ Outside, I like to go for runs and play soccer.
-- 🐈 I have a cat named Mylo 
-- 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
-- ✉️ You can also shoot me an email at armanmoztarzadeh@gmail.com. I'll try to respond as soon as I can.
-<!-- - 👯 I’m looking to collaborate on any open source projects. -->
-<!-- - 🔭 I’m currently working on improving my technical skills in algorithms and programming questions. --> 
+ 
+- 💻 I'm a third-year mathematics student at the University of British Columbia
 
-### 🛠 Technologies and Tools:
+- 💼 I'm currently looking for Fall and Winter intern positions for 2022 and 2023
+
+- 🌱 I’m currently learning about AI and SQL Databases
+
+- 📫 How to reach me: [armanmoztar@outlook.com](mailto:armanmoztar@outlook.com)  
+
+- 📁 Check out my portfolio [here](https://armanmoztar.github.io/)
+
+- 📄 Take a look at my [resume](https://armanmoztar.github.io/assets/files/Arman_Resume.pdf)
+
+- 😄 Pronouns: He/Him
 
 
- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+## 🛠 My Skill Set
+
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### Tools & Frameworks
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LaTex](	https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### ⚙️ Github Analytics:
-![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&line_height=20&count_private=true&hide_border=false&theme=algolia)![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&custom_title=My&nbsp;Top&nbsp;Used&nbsp;Languages&hide_border=false&layout=compact&theme=algolia)
+### ⚙️ Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parsasaeedi&theme=tokyonight&hide_border=true"/>
+</p>
 
- 
+<!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
-<!-- ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal) -->
+![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
 ![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
-
+ -->
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
