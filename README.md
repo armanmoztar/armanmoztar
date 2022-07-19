@@ -15,8 +15,7 @@
 
 - 😄 Pronouns: He/Him
 
-
-## 🛠 My Skill Set
+## 🛠 Skill Set
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,7 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### ⚙️ Github Stats
+## ⚙️ Github Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parsasaeedi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parsasaeedi&theme=tokyonight&hide_border=true"/>
