@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -51,7 +52,7 @@
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
-- https://github.com/alexandresanlim/Badges4-README.md-Profile.     #Tech Stack
+- https://github.com/alexandresanlim/Badges4-README.md-Profile.     # Tech Stack
 - https://github.com/rishavanand/github-profilinator.  # Profile generator
 - https://github.com/anuraghazra/github-readme-stats.   # Github Stats  
  -->
