@@ -5,7 +5,7 @@
 
 - 💼 I'm currently looking for Fall and Winter intern positions for 2022 and 2023
 
-- 🌱 I’m currently learning about AI and SQL Databases
+- 🌱 I’m currently learning about AI and Databases
 
 - 📫 How to reach me: [armanmoztar@outlook.com](mailto:armanmoztar@outlook.com)  
 
