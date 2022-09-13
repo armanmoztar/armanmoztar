@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Arman
 
 
-- 💻 I'm a third-year mathematics student at the University of British Columbia
+- 💻 I'm a mathematics student at the University of British Columbia with a passion for programming and data science
 
 - 💼 I'm currently looking for Winter or Summer intern positions for 2023
 
