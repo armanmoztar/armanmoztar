@@ -13,7 +13,6 @@
 
 - 📄 Take a look at my [resume](https://armanmoztar.github.io/assets/files/Moztarzade_Arman_Resume.pdf)
 
-- 😄 Pronouns: He/Him
 
 ## 🛠 Skill Set
 
