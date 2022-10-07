@@ -11,7 +11,7 @@
 
 - 📁 Check out my portfolio [here](https://armanmoztar.github.io/)
 
-- 📄 Take a look at my [resume](https://armanmoztar.github.io/assets/files/Moztarzade_Arman_Resume.pdf)
+- 📄 Take a look at my [resume](https://armanmoztar.github.io/assets/files/Moztarzadeh_Arman_Resume.pdf)
 
 
 ## 🛠 Skill Set
