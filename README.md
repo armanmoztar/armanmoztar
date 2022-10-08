@@ -1,11 +1,9 @@
  # 👋 Hi, I'm Arman
 
 
-- 💻 I'm a mathematics student at the University of British Columbia with a passion for programming and data science
+- 💻 I'm a student at the University of British Columbia with a passion for programming and data science
 
-- 💼 I'm currently looking for Winter or Summer intern positions for 2023
-
-- 🌱 I’m currently learning about AI 
+- 💼 I'm currently looking for Summer internships for 2023
 
 - 📫 How to reach me: [armanmoztar@outlook.com](mailto:armanmoztar@outlook.com)  
 
