@@ -5,7 +5,7 @@
 
 - 💼 I'm currently looking for Summer internships for 2023
 
-- 📫 How to reach me: [armanmoztar@outlook.com](mailto:armanmoztar@outlook.com)  
+- 📫 How to reach me: [armanmoztarzadeh@gmail.com](mailto:armanmoztarzadeh@gmail.com)  
 
 - 📁 Check out my portfolio [here](https://armanmoztar.github.io/)
 
