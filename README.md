@@ -1,41 +1,9 @@
- # 👋 Hi, I'm Arman
+## 👋 Hi, I'm Arman
 
+I'm a third-year student at the University of British Columbia majoring in mathematics with intended minor in data science. I am passionate about developing full-stack applications and learning about machine learning. Feel free to reach me at armanmoztar@outlook.com or on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
 
-- 💻 I'm a student at the University of British Columbia with a passion for programming and data science
-
-- 💼 I'm currently looking for Summer internships for 2023
-
-- 📫 How to reach me: [armanmoztar@outlook.com](mailto:armanmoztar@outlook.com)  
-
-- 📁 Check out my portfolio [here](https://armanmoztar.github.io/)
-
-
-## 🛠 Skill Set
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-### Tools & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## ⚙️ Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=armanmoztar&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=armanmoztar&theme=tokyonight&hide_border=true"/>
-</p> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
