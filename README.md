@@ -1,4 +1,4 @@
-<!--  # 👋 Hi, I'm Arman
+ # 👋 Hi, I'm Arman
 
 
 - 💻 I'm a student at the University of British Columbia with a passion for programming and data science
@@ -37,7 +37,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=armanmoztar&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=armanmoztar&theme=tokyonight&hide_border=true"/>
-</p> -->
+</p> 
 
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
