@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Arman
-I'm a third-year student at the University of British Columbia majoring in mathematics with intended minor in data science. I am passionate about developing full-stack applications and learning about machine learning. Feel free to reach me at armanmoztar@outlook.com or on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
+I'm a third-year student at the University of British Columbia majoring in mathematics and minoring in data science. I am passionate about developing full-stack applications and learning about machine learning. Feel free to reach me at armanmoztar@outlook.com or on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
