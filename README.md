@@ -1,4 +1,4 @@
-## Hi, I'm Arman 👋
+## Hi, I'm Arman
 I'm a third-year student at the University of British Columbia. I am passionate about developing full-stack applications and learning about machine learning. Feel free to reach me at armanmoztar@outlook.com or on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/).
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=transparent)
