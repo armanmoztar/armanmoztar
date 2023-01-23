@@ -1,6 +1,3 @@
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
 ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
