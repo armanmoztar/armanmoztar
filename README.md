@@ -10,7 +10,7 @@ Here's a little bit about me:
 - Enjoy Skiing and playing music ⛷️🎹
 
 ### Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztar@outlook.com). Always looking to meet new people and to discuss anything! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and to discuss anything! 
 
 
 
