@@ -12,8 +12,7 @@ Here's a little bit about me:
 ### Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztar@outlook.com). Always looking to meet new people and to discuss anything! 
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&layout=compact)
+
 
 
 
@@ -21,6 +20,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moz
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
 ![Activity-Graph](https://activity-graph.herokuapp.com/graph?username=armanmoztar&theme=minimal)
 ![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+
+![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armanmoztar&layout=compact)
  -->
 
 <!-- RESOURCES/LINKS
