@@ -5,7 +5,7 @@ Here's a little bit about me:
 
 - Currently working at Change Healthcare (now formally as Optum) as a Software Engineer in Test Co-op 🖥️
 - Undergraduate Teaching Assistant for CPSC 436C (Topics in Cloud Computing) ☁️
-- Current GitHub Campus Expert for the Vancouver Camps at the University of British Columbia 🎒
+- Current GitHub Campus Expert for the Vancouver Campus at the University of British Columbia 🚩
 - Avid soccer fan ⚽ 
 - Enjoy Skiing and playing music ⛷️🎹
 
