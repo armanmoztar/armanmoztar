@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### My name is Arman and I'm currently a third-year mathematics student at the University of British Columbia. My passion lies in computer science, data science, and machine learning. 
+My name is Arman and I'm currently a third-year mathematics student at the University of British Columbia. My passion lies in computer science, data science, and machine learning. 
 Here's a little bit about me:
 
 - Currently working at Change Healthcare (now formally as Optum) as a Software Engineer in Test Co-op 🖥️
