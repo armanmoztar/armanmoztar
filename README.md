@@ -1,20 +1,16 @@
 ## Hi there 👋
 
-My name is Arman and I'm currently a third-year mathematics student at the University of British Columbia. My passion lies in computer science, data science, and machine learning. 
+My name is Arman and I'm currently a fourth-year mathematics student at the University of British Columbia. My passion lies in computer science, data science, and machine learning. 
 Here's a little bit about me:
 
-- Currently working at Change Healthcare (now formally as Optum) as a Software Engineer in Test Co-op 🖥️
-- Undergraduate Teaching Assistant for CPSC 436C (Topics in Cloud Computing) ☁️
-- Current GitHub Campus Expert for the Vancouver Campus at the University of British Columbia 🚩
+- Currently working at Amazon as a Software Development Engineer Intern 🖥️
+- TA'd courses on computer networking and cloud computing 📗
+- Current GitHub Campus Expert for the Vancouver Campus at UBC 🚩
 - Avid soccer fan ⚽ 
-- Enjoy Skiing and playing music ⛷️🎹
+- Enjoy skiing, music, and cooking
 
 ### Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and to discuss anything! 
-
-
-
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and discuss anything! 
 
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
