@@ -7,7 +7,7 @@ Here's a little bit about me:
 - TA'd courses on computer networking and cloud computing 📗
 - Current GitHub Campus Expert for the Vancouver Campus at UBC 🚩
 - Avid soccer fan ⚽ 
-- Enjoy skiing, music, and cooking
+- Enjoy skiing, music, and hiking
 
 ### Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and discuss anything! 
