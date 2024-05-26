@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Arman and I'm currently a fourth-year mathematics student at the University of British Columbia. My passion lies in computer science, data science, and machine learning. 
+My name is Arman and I'm a fourth-year mathematics student at the University of British Columbia. My interests lie in computer science, data science, and machine learning. 
 Here's a little bit about me:
 
 - Currently working at Amazon as a Software Development Engineer Intern 🖥️
@@ -10,7 +10,7 @@ Here's a little bit about me:
 - Enjoy skiing, music, and hiking
 
 ### Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and discuss anything! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztar@outlook.com). Always looking to meet new people and discuss anything! 
 
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
