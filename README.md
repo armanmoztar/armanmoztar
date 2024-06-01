@@ -3,10 +3,10 @@
 My name is Arman and I'm a fourth-year mathematics student at the University of British Columbia. My interests lie in computer science, data science, and machine learning. 
 Here's a little bit about me:
 
-- Currently working at Amazon as a Software Development Engineer Intern 🖥️
-- TA'd courses on computer networking and cloud computing 📗
-- Current GitHub Campus Expert for the Vancouver Campus at UBC 🚩
-- Avid soccer fan ⚽ 
+- Currently working at Amazon as a Software Development Engineer Intern
+- TA'd courses on computer networking and cloud computing
+- Current GitHub Campus Expert for the Vancouver Campus at UBC
+- Avid soccer fan
 - Enjoy skiing, music, and hiking
 
 ### Get in Touch
