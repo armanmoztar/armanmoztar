@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science... and anything in tech really.
+My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science... and anything in tech.
 Here's a little bit about me:
 
 - Currently working at Amazon as an SDE Intern
