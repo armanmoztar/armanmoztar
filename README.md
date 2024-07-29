@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science... and anything in tech.
+My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
 
 - Currently working at Amazon as an SDE Intern
 - TA'd courses on computer networking and cloud computing
 - Current GitHub Campus Expert for the Vancouver Campus at UBC
-- Avid soccer fan (currently watching the Euros) 
 - Enjoy skiing, music, and hiking
 
-### Get in Touch
+### Get in Touch 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztar@outlook.com). Always looking to meet new people and discuss anything! 
 
 <!--
