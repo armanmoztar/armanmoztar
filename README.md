@@ -3,13 +3,13 @@
 My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
 
-- Currently working at Amazon as an SDE Intern
+- Previously did an SWE internship at Amazon on the Payments Team
 - TA'd courses on computer networking and cloud computing
-- Current GitHub Campus Expert for the Vancouver Campus at UBC
+- GitHub Campus Expert for the Vancouver Campus at UBC
 - Enjoy skiing, music, and hiking
 
 ### Get in Touch 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztar@outlook.com). Always looking to meet new people and discuss anything! 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and discuss anything! 
 
 <!--
 ![snake-Gif](https://github.com/armanmoztar/armanmoztar/blob/output/github-contribution-grid-snake.gif)
