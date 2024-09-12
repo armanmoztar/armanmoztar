@@ -3,7 +3,7 @@
 My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
 
-- Previously did an SWE internship at Amazon on the Payments Team
+- Did a SWE internship at [Amazon](https://www.amazon.com/) on the Payments Team
 - TA'd courses on computer networking and cloud computing
 - GitHub Campus Expert for the Vancouver Campus at UBC
 - Enjoy skiing, music, and hiking
