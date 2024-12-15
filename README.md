@@ -10,8 +10,6 @@ Here's a little bit about me:
 ### Get in Touch 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people and discuss anything! 
 
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=radical)
-
 <!--
 ![Profile-Hit-Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 ![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanmoztar&show_icons=true&theme=radical)
