@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Arman and I'm a fourth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
+My name is Arman and I'm a sixth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
 
 - TA'd courses on computer networking and cloud computing
