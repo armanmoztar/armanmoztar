@@ -1,6 +1,5 @@
 ## Hi there 👋
-![armanmoztar's GitHub Banner](https://raw.githubusercontent.com/armanmoztar/armanmoztar/main/banner.png)
-
+<img width="2560" height="640" alt="armanmoztar-readme-banner (1)" src="https://github.com/user-attachments/assets/1b4a9e1b-b4d5-45ef-a255-8bdd76ece423" />
 
 My name is Arman and I'm a sixth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
