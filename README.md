@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Arman. I'm a sixth-year student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
+My name is Arman. I'm a student at the University of British Columbia. My interests lie in computer science, data science and cloud development.
 Here's a little bit about me:
 
 - GitHub Campus Expert for the Vancouver Campus at UBC
