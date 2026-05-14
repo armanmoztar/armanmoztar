@@ -1,12 +1,10 @@
-## Hi there 👋
-My name is Arman. I'm a student at the University of British Columbia.
-Here's a little bit about me:
-
-- GitHub Campus Expert for the Vancouver Campus at UBC
-- Enjoy skiing, music, and hiking
+## Hi, I'm Arman 👋
+I'm a software engineer based in Vancouver, and a recent graduate from the University of British Columbia (Class of 2026).
+In my free time, you can catch me skiing, hiking, playing music, and exploring the outdoors.
 
 ### Get in Touch 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/) or via email (armanmoztarzadeh@gmail.com). Always looking to meet new people.
+- Email: armanmoztarzadeh@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/arman-moztarzadeh/
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
