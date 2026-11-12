@@ -3,9 +3,8 @@ I'm a software engineer based in Vancouver, and a graduate from the University o
 In my free time, you can catch me skiing, hiking, playing music, and exploring the outdoors.
 
 ### Get in Touch 
-- Email: armanmoztarzadeh@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arman-moztarzadeh/
-- Website: https://www.armanmoztarzadeh.com/
+- [Email](armanmoztarzadeh@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/arman-moztarzadeh/)
 
 <!-- RESOURCES/LINKS
 - https://shields.io/.    
